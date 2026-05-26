@@ -48,8 +48,6 @@ Bonus kulelerin tasarım sürecindeki zaman kaybını ortadan kaldırmak için �
 <div align="center">
   <!-- BURAYA PIXEL ART KULE YAPIMI GIF'INI EKLEYECEKSIN -->
   <img width="426" height="240" alt="gif" src="https://github.com/user-attachments/assets/b93771f2-df13-448f-be89-dba80d91fe92" />
-
-  <img src="https://via.placeholder.com/400x300.png?text=Pixel+Art+Generator+GIF" alt="Pixel to Tower System" />
 </div>
 
 <br/>
