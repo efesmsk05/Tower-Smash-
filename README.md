@@ -8,7 +8,8 @@
   [![Play on CrazyGames](https://img.shields.io/badge/Play_on-CrazyGames-purple?style=for-the-badge&logo=game-controller)](https://www.crazygames.com/game/tower-smash-dan?bypassCache=7nudj)
   <!-- Tıklanabilir CrazyGames Logosu -->
 <a href="https://www.crazygames.com/game/tower-smash-dan?bypassCache=7nudj" target="_blank">
-  <img src="BURAYA_CRAZYGAMES_LOGOSUNUN_LINKINI_YAPISTIR" alt="Play on CrazyGames" width="200">
+  <img src="<img width="3260" height="1000" alt="Play_CG_Purple" src="https://github.com/user-attachments/assets/4fc47050-de0d-4113-9514-5bcb742997e5" />
+" alt="Play on CrazyGames" width="200">
 </a>
   [![Made with Unity](https://img.shields.io/badge/Made_with-Unity-black?style=for-the-badge&logo=unity)](https://unity.com/)
 </div>
