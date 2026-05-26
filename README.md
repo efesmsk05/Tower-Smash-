@@ -7,7 +7,7 @@
   
   [![Play on CrazyGames](https://img.shields.io/badge/Play_on-CrazyGames-purple?style=for-the-badge&logo=game-controller)](https://www.crazygames.com/game/tower-smash-dan?bypassCache=7nudj)
   <!-- Tıklanabilir CrazyGames Logosu -->
-  <img width="3260" height="1000" alt="Play_CG_Purple" src="https://github.com/user-attachments/assets/333a32bb-1bc1-4bfc-91f9-bb270983189c" />
+  <img width="500  " height="500" alt="Play_CG_Purple" src="https://github.com/user-attachments/assets/333a32bb-1bc1-4bfc-91f9-bb270983189c" />
 
 <a href="https://www.crazygames.com/game/tower-smash-dan?bypassCache=7nudj" target="_blank">
   <img src="<img width="3260" height="1000" alt="Play_CG_Purple" src="https://github.com/user-attachments/assets/4fc47050-de0d-4113-9514-5bcb742997e5" />
