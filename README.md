@@ -27,6 +27,17 @@ Oyunun temel mimarisi, CrazyGames platformundaki oyuncuların tüketim hızları
 
 ---
 
+⚙️ WebGL Optimizasyonları ve Teknik Altyapı
+Bir web oyununun başarılı olması sadece mekaniklerine değil, tarayıcıda ne kadar pürüzsüz çalıştığına ve ne kadar hızlı yüklendiğine bağlıdır. Bu projede web ortamının kısıtlamalarını avantaja çevirmek için uyguladığım teknikler:
+
+Garbage Collector (GC) Optimizasyonu: Web tarayıcılarında anlık takılmaların (FPS Drop) en büyük sebebi sürekli obje yaratıp silmektir (Instantiate/Destroy). Yıkılan kule parçaları ve fırlatılan toplar için Object Pooling (Nesne Havuzu) sistemi kuruldu. Objeler yok edilmek yerine havuzda bekletilip yeniden kullanılarak bellek şişmesinin önüne geçildi.
+
+Draw Call Optimizasyonu (Texture Atlasing): Ekranda çizilecek her farklı materyal işlemciye bir yük (Draw Call) bindirir. Özellikle prosedürel kulelerde bu yükün artmasını engellemek için görseller Texture Atlas (Doku Atlası) haritalarında birleştirildi. Tek materyal üzerinden tüm yapılar boyanarak render performansı maksimize edildi.
+
+Hızlı Yükleme ve Build Boyutu (Code Stripping): CrazyGames gibi platformlarda oyuncu oyunun yüklenmesini 3 saniyeden fazla beklerse sekmeyi kapatır. Build boyutunu minimize etmek için Texture Compression teknikleri ve Unity'nin Managed Code Stripping (kullanılmayan motor kodlarını silme) özelliği agresif ayarlarda kullanıldı.
+
+Responsive UI Mimarisi (UI Scaling): Web oyunları dikey bir pencerede, tam ekranda veya farklı çözünürlüklü monitörlerde oynanabilir. Arayüzün her ekranda ve en-boy oranında (Aspect Ratio) kusursuz görünmesi ve tıklanabilir alanların bozulmaması için dinamik bir UI Scaling sistemi entegre edildi.
+
 ## ✨ Özel Geliştirici Araçları ve Sistem Mimari (Custom Tooling & Systems)
 
 ### 1. Görsel Tabanlı Kule Üretim Aracı (Pixel-to-Tower Generator)
@@ -54,3 +65,5 @@ Sistem önce bir taban boyutu (Örn: 3x2, 4x4, 7x2) belirler ve bu grid yapısı
       █ [ MID ]  -> Taban boyutuna (Örn: 4x4) uyan rastgele gövde katmanı.
       │
     ▀▀▀▀ [ BASE ] -> Sistemin temelini belirleyen rastgele zemin (3x2, 4x4 vb.)
+
+
