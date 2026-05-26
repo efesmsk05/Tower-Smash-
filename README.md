@@ -1,7 +1,6 @@
 <div align="center">
-  <!-- BURAYA EN ÜSTE KOYMAK İSTEDİĞİN GÖRSELİN LİNKİNİ YAPIŞTIR -->
-  <img src="<img width="2752" height="1536" alt="LandSpaceGameArt" src="https://github.com/user-attachments/assets/3e439a48-4959-49e0-974f-50b853d8a332" />
-" alt="Tower Smash Banner" width="100%">
+  <!-- Kapak Fotoğrafı Düzeltildi -->
+  <img src="https://github.com/user-attachments/assets/3e439a48-4959-49e0-974f-50b853d8a332" alt="Tower Smash Banner" width="100%">
   
   <br/>
 
