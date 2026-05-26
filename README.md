@@ -1,6 +1,6 @@
 # 🏰 Tower Smash
 
-[![Play on CrazyGames](https://img.shields.io/badge/Play_on-CrazyGames-purple?style=for-the-badge&logo=game-controller)](BURAYA_CRAZYGAMES_LINKINI_YAPISTIR)
+[![Play on CrazyGames](https://img.shields.io/badge/Play_on-CrazyGames-purple?style=for-the-badge&logo=game-controller)](https://www.crazygames.com/game/tower-smash-dan?bypassCache=7nudj)
 [![Made with Unity](https://img.shields.io/badge/Made_with-Unity-black?style=for-the-badge&logo=unity)](https://unity.com/)
 
 > *Tower Smash*, web tarayıcılarında kesintisiz ve yüksek performanslı bir deneyim sunmak için Unity WebGL ile geliştirilmiş hiper-gündelik (hyper-casual) bir yıkım oyunudur.
@@ -8,9 +8,10 @@
 ## 🎮 Oynanış
 
 *(Not: Buraya GitHub'a yüklediğin hareketli bir GIF'in linkini koyacağız. Şimdilik yer tutucu bırakıyorum)*
-![Tower Smash Gameplay](https://via.placeholder.com/600x338.png?text=Oyun+Ici+Hareketli+GIF+Buraya+Gelecek)
+![Tower Smash Gameplay](<img width="240" height="426" alt="0526(1)" src="https://github.com/user-attachments/assets/6c78bf2c-4ce1-4308-a673-2eb1ff925008" />
 
-**🎥 Oynanış Videosu:** [YouTube/Vimeo Videonu İzle](BURAYA_VIDEO_LINKINI_YAPISTIR)
+)
+
 
 ## 🚀 Proje Hakkında (Portfolyo Özeti)
 
