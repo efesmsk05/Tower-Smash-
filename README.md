@@ -1,4 +1,3 @@
-<img width="426" height="240" alt="gif" src="https://github.com/user-attachments/assets/d3b42c0a-29a3-4d7c-9beb-e7dfecfc1b8c" />
 <div align="center">
   <img src="https://github.com/user-attachments/assets/3e439a48-4959-49e0-974f-50b853d8a332" alt="Tower Smash Banner" width="100%">
   
